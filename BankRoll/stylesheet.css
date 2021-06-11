@@ -1,0 +1,9 @@
+.root{
+    -fx-base: rgb(0, 160, 176);
+}
+
+.button{
+    -fx-border-radius: 10;
+    -fx-padding: 3 6 6 6;
+    -fx-font-size: 20pt;
+}

@@ -1,0 +1,24 @@
+c 200 Egypt 0 0 Blocks/LuckBlock.png 0
+c 120 Algeria 0 1 Blocks/Algeria.png 1
+c 400 America 0 2 Blocks/America.png 2
+c 400 Airport 0 3 Blocks/Airport.png 3
+c 210 Brazil 0 4 Blocks/Brazil.png 4
+c 180 Mexico 0 5 Blocks/Mexico.png 5
+c 350 China 0 6 Blocks/China.png 6
+j 0 7 Blocks/Jail.png 7
+c 380 Korea 1 7 Blocks/Korea.png 8
+c 200 Philippine 2 7 Blocks/Philippine.png 9
+c 280 Canada  3 7 Blocks/Canada.png 10
+c 400 Russia 4 7 Blocks/Russia.png 11
+c 175 Electricity 5 7 Blocks/Electricity.png 12
+c 220 Spain 5 6 Blocks/Spain.png 13
+c 180 Italy 5 5 Blocks/Italy.png 14
+c 250 Sudan 5 4 Blocks/Sudan.png 15
+c 100 Railway 5 3 Blocks/Railway.png 16
+c 300 Syria 5 2 Blocks/Syria.png 17
+c 300 Cairo 5 1 Blocks/Cairo.png 18
+s 5 0 Blocks/StartFlag.PNG 19
+c 400 London 4 0 Blocks/London.png 20
+c 350 Germany 3 0 Blocks/Germany.png 21
+c 290 Paris 2 0 Blocks/Paris.png 22
+c 150 Tunisia 1 0 Blocks/Tunisia.png 23
